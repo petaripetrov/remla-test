@@ -7,4 +7,4 @@ ENTRYPOINT ["python"]
 CMD ["app.py"]
 
 
-LABEL org.opencontainers.image.source https://github.com/petaripetrov/remla-test
+LABEL org.opencontainers.image.source=https://github.com/petaripetrov/remla-test
